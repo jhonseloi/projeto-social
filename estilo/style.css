@@ -1,0 +1,13 @@
+@charset "UTF-8"
+
+body {
+    background: url(imagens/fundo-madeira.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+iframe#redes {
+    background: url(imagens/frame-iphone.png) center center no-repeat fixed;
+    background-size: contain;
+    height: 100vh;
+    width: 100vw;
+}
