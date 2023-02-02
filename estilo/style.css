@@ -19,8 +19,8 @@ html, body {
 body {
     background: black url(../imagens/fundo-madeira.jpg) no-repeat top center fixed;
     background-size: cover;
-    padding-top: 8vh;
-    padding-bottom: 8vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
 }
 
 main {
@@ -48,6 +48,7 @@ iframe#tela {
 
 section#redes-sociais {
     text-align: right;
+    margin: 10px;
 }
 
 section#redes-sociais img {
