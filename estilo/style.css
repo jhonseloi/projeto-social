@@ -40,10 +40,10 @@ section#telefone {
 
 iframe#tela {
     position: relative;
-    top: 79px;
-    left: 20px;
-    width: 270px;
-    height: 473px;
+    top: 83px;
+    left: 23px;
+    height: 467px;
+    width: 264px;
 }
 
 section#redes-sociais {
@@ -52,15 +52,15 @@ section#redes-sociais {
 
 section#redes-sociais img {
     width: 50px;
-    margin: 10px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px black;
     box-sizing: border-box;
+    margin: 12px;
 }
 
 section#redes-sociais img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.664);
-    transform: translate(-3px, -3px);
-    box-shadow: 3px 3px 10px black;
-    transition: .2s, border .5s;
+    border: 2px solid rgba(255, 255, 255, 0.644);
+    box-shadow: 4px 4px 10px black;
+    transform: translate(-5px, -3px);
+    transition: .5s, border .2s;
 }
